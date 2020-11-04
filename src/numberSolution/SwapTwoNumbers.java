@@ -1,3 +1,4 @@
+package numberSolution;
 
 public class SwapTwoNumbers {
 
